@@ -1,0 +1,5 @@
+.module-cache/
+dist/
+
+release/
+.DS_Store
