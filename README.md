@@ -2,6 +2,12 @@
 
 在 Mac 上，用鼠标侧键控制微信输入法语音：**点一下开始说话，再点一下结束并输入文字。**
 
+**首次使用：阅读 [User Guide · 中文图文教程](USER_GUIDE.md)**，按步骤下载 App、配置鼠标、授权并测试。遇到“权限开着却一直提示授权”，教程也有已实测的恢复步骤。
+
+[下载 App（v0.1.0）](https://github.com/zhsongqing/mouse-voice-bridge/releases/tag/v0.1.0) · [直接下载 Apple Silicon ZIP](https://github.com/zhsongqing/mouse-voice-bridge/releases/download/v0.1.0/MouseVoiceBridge-v0.1.0-macos-arm64.zip)
+
+> 当前仓库为私有，教程与下载附件需要使用有仓库访问权限的 GitHub 账号访问。
+
 这是一个用 Swift 编写的小型 macOS 工具。它把 Logi Options+ 发出的 F6 转换成微信输入法能够识别的 Fn 按下／释放事件，让你握着鼠标就能开始语音输入。
 
 > 已在作者的 MacBook Air 13 英寸（Apple Silicon、macOS 15.6.1）＋ Logitech MX Anywhere 3S（蓝牙）＋微信输入法上完成手动验证：侧键点击启动、再次点击停止、识别文字进入输入框。其他设备、系统版本和输入法尚未验证。
