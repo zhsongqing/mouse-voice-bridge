@@ -6,7 +6,7 @@
 
 [下载 App（v0.1.0）](https://github.com/zhsongqing/mouse-voice-bridge/releases/tag/v0.1.0) · [直接下载 Apple Silicon ZIP](https://github.com/zhsongqing/mouse-voice-bridge/releases/download/v0.1.0/MouseVoiceBridge-v0.1.0-macos-arm64.zip)
 
-> 当前仓库为私有，教程与下载附件需要使用有仓库访问权限的 GitHub 账号访问。
+> 仓库已公开，任何人均可查看教程并下载 Releases 中的 App。
 
 这是一个用 Swift 编写的小型 macOS 工具。它把 Logi Options+ 发出的 F6 转换成微信输入法能够识别的 Fn 按下／释放事件，让你握着鼠标就能开始语音输入。
 
